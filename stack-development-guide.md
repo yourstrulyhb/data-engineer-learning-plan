@@ -25,6 +25,8 @@ Based on: https://dev.to/grayhat/modern-data-engineering-roadmap-2024-thread-wit
   - [ ] How to provision resources
   - [ ] How to manage storage
   - [ ] How to deploy applications in cloud envrionment
+  - [ ] Azure Databricks
+  - [ ] Azure Data Factory
 - [ ] Distributed Computing Frameworks (learn architecture)
   - [ ] Apache Hadoop
   - [ ] Apache Kafka
@@ -68,3 +70,7 @@ Based on: https://dev.to/grayhat/modern-data-engineering-roadmap-2024-thread-wit
 - Build **data infrastructure** with cloud platforms
 - Create real-time insights and applications with streaming analytics platforms
 - Automation (with Airflow) and Democratization (with dbt)
+
+## Data Handling and Visualization
+- MS Excel
+- PowerBI
